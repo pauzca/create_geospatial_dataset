@@ -1,0 +1,10 @@
+{
+    "area_total_m2": 13870498.13962768,
+    "area_mascara_m2": 1792904.2727846077,
+    "porcentaje_mascara": 12.92602655460746,
+    "unidades": "metros cuadrados (m²)",
+    "archivos_utilizados": {
+        "raster": "C:/Users/Usuario/Downloads/Mascara_Vs_Tiff/Piedecuesta/Piedecuesta.tif",
+        "shapefile": "C:/Users/Usuario/Downloads/Mascara_Vs_Tiff/Piedecuesta/mask_segmentation.shp"
+    }
+}

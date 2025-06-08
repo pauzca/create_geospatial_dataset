@@ -1,0 +1,10 @@
+{
+    "area_total_m2": 94044366.50173587,
+    "area_mascara_m2": 9440842.435587445,
+    "porcentaje_mascara": 10.03871128784007,
+    "unidades": "metros cuadrados (m²)",
+    "archivos_utilizados": {
+        "raster": "C:/Users/Usuario/Downloads/Calculo_Area/Bucaramanga/Bucaramanga.tif",
+        "shapefile": "C:/Users/Usuario/Downloads/Calculo_Area/Bucaramanga/mask_segmentation.shp"
+    }
+}

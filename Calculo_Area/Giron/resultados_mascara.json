@@ -1,0 +1,10 @@
+{
+    "area_total_m2": 19432542.34597308,
+    "area_mascara_m2": 2580084.326299776,
+    "porcentaje_mascara": 13.277132144443444,
+    "unidades": "metros cuadrados (m²)",
+    "archivos_utilizados": {
+        "raster": "C:/Users/Usuario/Downloads/Calculo_Area/Giron/Giron.tif",
+        "shapefile": "C:/Users/Usuario/Downloads/Calculo_Area/Giron/mask_segmentation.shp"
+    }
+}

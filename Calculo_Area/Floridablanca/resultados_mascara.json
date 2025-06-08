@@ -1,0 +1,10 @@
+{
+    "area_total_m2": 25473344.49025371,
+    "area_mascara_m2": 5340158.335933185,
+    "porcentaje_mascara": 20.963711058735807,
+    "unidades": "metros cuadrados (m²)",
+    "archivos_utilizados": {
+        "raster": "C:/Users/Usuario/Downloads/Mascara_Vs_Tiff/Floridablanca/Floridablanca.tif",
+        "shapefile": "C:/Users/Usuario/Downloads/Mascara_Vs_Tiff/Floridablanca/mask_segmentation.shp"
+    }
+}

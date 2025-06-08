@@ -1,6 +1,6 @@
 {
-    "input_tiff": "/home/paula/Documentos/PROYECTOS/segmentacion_vegetacion/Mapa_Florida_Combinado_Delimitado_render.tif",
-    "output_dir": "/home/paula/Documentos/PROYECTOS/segmentacion_vegetacion/dataset",
+    "input_tiff": "D:/imagenesHands-on/GironDelimitada.tif",
+    "output_dir": "D:/imagenesHands-on/RecortesImagenesGiron",
     "tile_size": 30000,
     "output_tile_size": 800,
     "overlap_percentage": 0.0,

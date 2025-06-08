@@ -64,7 +64,7 @@ def main(config_file):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('--config', type=str, default='/home/paula/Documentos/PROYECTOS/segmentacion_vegetacion/scripts/config_create_dataset.json', help='config.json')
+    parser.add_argument('--config', type=str, default='C:/Users/nikor/OneDrive/Documents/Segmentation/create_geospatial_dataset/config_create_dataset.json', help='config.json')
     args = parser.parse_args()
 
     main(args.config)

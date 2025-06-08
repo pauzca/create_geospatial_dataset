@@ -1,0 +1,3 @@
+Area en hectareas: 1943.2542345973077
+Tiles discarded because they were almost all blank: 118
+Total of saved tiles: 0

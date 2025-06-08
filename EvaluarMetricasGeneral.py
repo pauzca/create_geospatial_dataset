@@ -14,9 +14,9 @@ def cargar_mascara(path):
     return torch.tensor(np.array(Image.open(path).convert("1"))).flatten().int()
 
 # Rutas
-carpeta_gt = "ground_truth"
-carpeta_pred = "predicciones"
-carpeta_Resultados = "Resultados"
+carpeta_gt = "ground_truth_binaryMask"
+carpeta_pred = "prediccionVDVI"
+carpeta_Resultados = "Resultados_groundTruthBinaryMask_vs_prediccionVDVI"
 os.makedirs(carpeta_Resultados, exist_ok=True)
 
 # Inicializar acumulador de métricas

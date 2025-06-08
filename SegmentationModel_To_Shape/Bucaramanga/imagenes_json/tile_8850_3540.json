@@ -1,0 +1,37 @@
+{
+  "masks": [
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "kRe81nh02L5J5ZODeXO=Sg0MhXO7Ug00bXO5\\g0i0O0O1N2O1O2M2O1O101N10000000O1000000O010O10O01O0N3O11O1O00HlXObNUg0^18L4K5N2O0N3M200N1O2M3M3K5L7IhZc9"
+      },
+      "label": "trees",
+      "score": 0.2082921266555786
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "ohi:8eh03N3K4N6J3N2N1N3N1N3M3N3L2N3N2N3M2L4M2N3N1O1N2N2N3O0N3L301O1O0O2O1O0O2N1O2N2O001O0O1000O100O010O1O010N2O1N200O1O100O2OO01O1O1N2O1N2O101N100O2N10001N3M4L2N5K4L4J8H5L3N1N4K4L3M7Fofa6"
+      },
+      "label": "trees",
+      "score": 0.2215488851070404
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "_eT?9ch05J7J5L4M3N2M2N3N2M200O2M2O1O2N10000O1O00100O1O0100000O11O001O0O100O100000000O2M202O0O1O1O0O2N4K3M3O1N2O002L4L3N3M3GbWOJ^Po2"
+      },
+      "label": "trees",
+      "score": 0.2140355259180069
+    }
+  ]
+}

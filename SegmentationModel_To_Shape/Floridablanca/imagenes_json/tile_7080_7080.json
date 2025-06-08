@@ -1,0 +1,59 @@
+{
+  "masks": [
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "o_j>5133k0`0oNhc0Om[O;>GKc2@aM^=3UCHi36iKQ1Oj4S;_KRGcNlM9KE54Mg8`:eHaFbNZO9CMO:2i8_:UHaFV:^9aDaE6133B8Q<Q:TDcE7OS=]:P1N3M2N0kGfAVOGP5d>bKTBjNI_5S>eKcB]N_Ok5P>eKeCY4_<aKhCZ4[<bKhC\\4\\<]KiCe4V<TKQDo1SMEU?lMQDl1^M4hb0UOf]Oi0fb0bNe]O]1iNgMYc0>T^Oj1jd0O1N200000001O001O000000O10000000000000000O11O00000000001O1O001O0000000000000000000000O11O0000000000000000O10000O100000000000000000000000000000000000000000000000000001O0000000000000000001O000000000000O100O1000000O100O1O1001O00O100000000O10000000000UJPNfDP2Y;SNW_OGX5W2];hNVDX1f;QOTDP1k;ROTDn0k;SOTDn0k;TOTDl0k;YOQDg0n;[OPDf0n;]Oe_O[N1No3[2[<Cd_OTN3M1165MK05Q2W2T>Ae_OUN1O0d0N0V2h1U>Af_OUNOb1=cNIHm0^2X?@f_OM3QOl0c1[?b2d@^M\\?c2b@^M^?b2b@^M_?a2a@_M_?a2a@_M_?a2a@_M_?b2_@_Mb?e2X@\\Mh?i2S@WMm?j2R@VMn?j2R@VMn?j2R@VMP`0h2o_OYMS`0e2m_O[MV`0b2j_O^MW`0a2i_O_MV`0b2i_O_MW`0a2i_O_MY`0_2e_OcM]`0\\2Y_OoJ2g2f`0Y2W_ORK1f2j`0Y5002N00O100O100M30000"
+      },
+      "label": "parks",
+      "score": 0.2394677996635437
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "QU_b01kh0?@<D9J5L3N1N2N2O0O2oYOkNUd0V1[[O^O`d0c0gZO\\N8`1md0=kZOITe0S2N001O01O0O101N2N2O2L5L3K3M4N101N2L4M3K5L3N2O1M3N2N2O101O00P_O"
+      },
+      "label": "trees",
+      "score": 0.2385927438735962
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "Sei43bh0g0B3M4L5L3PYOkNQf0X1hYOlNXf0V1bYOnN]f0U1`YOlN`f0j1N2N2O2M2O2O0O1O1N2O1O1000001O001O01O1O1O1O2N2N2N2M5L001N1O2O1N3N1N3M2N4M2M2N4L2N2N1O2N2N2N2N2M3N2O3K4L4L8D\\SV="
+      },
+      "label": "trees",
+      "score": 0.24504883587360382
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "lon`0f0Wh03N3O0O1O100O10000O10000O10000O1000O100000001O1O2N4K9G3M3Knaj1"
+      },
+      "label": "trees",
+      "score": 0.21177738904953003
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "URo`01lh09G4N2M2N3N1N2O10O01000000O1000O10000000O01000O01O1N2O1N3M5K\\gi1"
+      },
+      "label": "trees",
+      "score": 0.2000335305929184
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "masks": [
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "ZW>7hh03M5K5J4M3M3M2N2N3M3L3N1O1N2M3L4N2O1N2O100O10000O10000010O01O01N2O4lNmXO]OXVXb0"
+      },
+      "label": "trees",
+      "score": 0.2208678275346756
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "cic06gh07J4L3M3N3N1N2N2O1O1N3N2N001O1O0010O00001O010O1O0010OO1000000O2O0O100000O100O1000O010N2O1O010O100O010O10001N101O1N1O2N6J3N3L3FaV[a0"
+      },
+      "label": "trees",
+      "score": 0.2026929408311844
+    }
+  ]
+}

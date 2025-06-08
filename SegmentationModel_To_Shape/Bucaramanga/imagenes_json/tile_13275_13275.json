@@ -1,0 +1,26 @@
+{
+  "masks": [
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "bUVb0461mg0j0L<E:F5K5J5M1M3O1N100O101O00001O2M201N6J2N4L5L1N5K1N2O01N1O1O1000000O1O1L6L3M4L4N0O2N1N3M3N3M1O1O2mMVYOl1Qg0K5K9H30^K"
+      },
+      "label": "",
+      "score": 0.17642106115818024
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "knVb05gh07YOJ]XO8ag0NSXOH1;kg0g0K4\\XOmNWg0S1hXOnNXg0P1fXOmN00[g0R1fXOnNO01NSg0W1lXOVORg0\\11O02O2N5K3M2N2M20O000002N102M1N100001O0000001O010O101M4L5iMXYOl1Vg0I1N2O3M2aNcXO0OR1Rh0CnWOZOSh0c06N3L4Fhn2"
+      },
+      "label": "",
+      "score": 0.1702488660812378
+    }
+  ]
+}

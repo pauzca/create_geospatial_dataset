@@ -1,0 +1,191 @@
+{
+  "masks": [
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "g^k09eh05L3M3M2QXOCYg0>dXOGXg0<cXOH[g0P1L4M2O2N1O2L3O1L5M4M2M3M4M2N2N1O2N1O2O0O2N2O001N2O1N2O0O100O101N100O100O100O1000O10O10O1O100O1O1F:L4M3N3L3O2M3N2N4K9G5K6J6J4L3M3L4M3L3L5L4K6Jich`0"
+      },
+      "label": "trees",
+      "score": 0.43811631202697754
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "To[1:bh06CCPXOd0OZOdg0Y1J7K5L3M5L8G3N4L001N100000O0100O101N100O10O1N2O0101O2N000001N2O001N1O2N2N1O101N1N2O2L3O2N2L5K5L4M2M4L4M5K7J1O1N8G3N2Ikbd`0"
+      },
+      "label": "trees",
+      "score": 0.33493390679359436
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "igd=;`h0=H5J6K4L4L2N1O000O1O1O10000001O001O1O2N1N3N2M3N4L4@oWOHnlW5"
+      },
+      "label": "trees",
+      "score": 0.2620683014392853
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "Xmg=`0^h08I8H7I3M6J6K5K9F6K5K2eYO`M49H>hd0g3G2d[O`KTd0i4M2N1O1N102N010O06J3M1O1O1O003M3M2M7J9G5Jf0[Og0YO9F7H=D6fNYXOn0Qh0J`0_Om[g4"
+      },
+      "label": "trees",
+      "score": 0.30470332503318787
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "b7V<j<01O0O2O1O2N2N1O1O0O4M1N1O100O1O1O2O1N1N3N1O1aGbBYMKk7V>WJ]Be5e=oHmA5d0i6a=jHeA@:f0h0:oN_5Z>oIUB5e0;nN_5Y>PJWBBU1m0\\N`5[>mIQDb0eM\\5_>oITD`0]M`5a>lIUDd0\\M[5c>oISDe0^MP5ha0PKY^Ol4ja0`Ji]O`0=o4k9_JeM3TH>>m4`9hJQFOk7LWHa0a0f4\\9XKjMAYH9NMf0m4X9`KbM\\OiH:GMi0h4W9iKWFE_6CcI:GMT1<lN72V2o9kMoEEQ7JPINj2c2U7bNQMnNPIMl2`2T7eNoLnNRINm2\\2Q7kNlLnNUIKP3Y2l6SOmLjNWIKS3T2h6XOmLkNWIJU3m1lLhMg00Z8h1fMXOZLY1k6AkLWOYLW1l6ClLVOWLW1k6FlLSOZLS1m6KiLROULQOTMj12VNj9R2XFPNU6MhIP1e2oN]Mn1Q:9nEmM\\6k0YLQO\\Ml1R:=kEkM`6j0WLRO[Mf1Y:i0WL^NYLf0b7l0XLZNTLl0d7m0cI_MbN9_MOj2\\1a7n0\\GeM]NMV19R1FjM3e2\\1a7Q1XGSNA2_1\\O8^1^7T1WGSNB6]1RO<c1]7R1lFZMnNn0P12]4e0g4S1iFdNNFb4<_JeNX:g2fFlND@P58^JdNX:i2eFg0d4lMaJbNW:l2cFf0e4lMbJaNV:m2cFf0f4jMm4a1\\Fe0g4iMm4d1[Fd0h4gMm4e1[Fc0i4hMk4g1ZFb0k4gMj4h1[F`0Q5cMd4m1[F>T5aLTJe0f:^2RF9Z5lLPJHk:S3kE7]5hLR5S3[E:o`0Ho^O6@bLaa0X3n^O6Va0Jj^O5Va0Lj^O3Wa0Mi^O1Ya0Ng^O1Za00e^OM_a02b^OJaa06_^OHda08\\^OCia0=X^O@ja0>X^O@ja0`0V^O\\Ona0c0S^O\\Ona0=Y^OAia0;\\^OBfa09`^OEaa09b^OE`a08b^OF`a08b^OG`a06b^OHaa06a^OFba09_^OEga07Y^OHoa0OT^ONPb0NR^O0Tb0JP^O1Wb0Jl]O3Wb0Ik]O5Xb0Hk]O5Yb0El]O7Xb0En]O7Sb0ER^O7Rb0CU^O6Qb0FV^O4ma0I^^OMea0L^`i`0"
+      },
+      "label": "trees",
+      "score": 0.27173566818237305
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "c7T<l<01O001O2N1O2M2O1O3L2O0O2O0O1O2N2N4M1M3TF\\BY8g=cG]BZ8m=\\GTB:Ni6Q>jHSB56m6j=eHYB94n6e=fHYB79P7_=eH`BM=g0iN`5]>gIYDa0\\Mg5ba0SJ`^Oj5ca0oIW^OH7T6cb0K4L4H7M3M4M4L4L3M=DW1bKiZOe2le0L3M3M5K2M3N3M3M2L4L8C;I8CeYVb0"
+      },
+      "label": "trees",
+      "score": 0.27012503147125244
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "hgd=9ch09J8I7aXOUOZf0Q1\\YO^OZf0h0]YO^Oaf0f1J7I3L5K6I7K9F6K5K2V[OPL2X1LgNlb0Q6N8JO001O002N1O1O3M4Ke0[O:F4L1O1O1O2N3L3N3L9H8H8YLnZOP3Xf0XO:G7G:G7H:Da0^Oo[g4"
+      },
+      "label": "trees",
+      "score": 0.2670658826828003
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "Uag`05hh08G7J6L3M2N2N2N2N101O1N3N3M1O1O0000O100O10001O0O2O1N2O1N10O0100O1O001O10O01O100O1O2M3K4M5EeWOLbYf1"
+      },
+      "label": "trees",
+      "score": 0.20777864754199982
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "g^k09eh05L3M3M2QXOCYg0>dXOGXg0<cXOH[g0P1L4M2O2N1O2L3O1L5M4M2M3M4M2N2N1O2N1O2O0O2N101O1N2O1N101N100O100O2O0O100O10000O10O10O0100O1O100O1F:L4M3M4M2O2M3N2N4K9G5K6J6J4L3M3L4M3L3L5L4K6Jich`0"
+      },
+      "label": "trees",
+      "score": 0.20024283230304718
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "ge`>6`g08cXOI::kf0=iXOJUg0n013[O]NdYOk1oe0i0mYOZMde0o2]ZORM_e0Q3aZOmL[e0Z3J;J7L4M3^ORLj[OR4Sd0?JYKR\\Oi4lc07N3M200O10M2010O10VOc\\OgKE5hc0l3R]OQLPc0h3W1M3H8KT\\OhLZb0T3^]OhLQO4ac0Q3a]OkLnN4ac0o2c]OmLlN4ac0m2e]OoLjN3cc0i2T^OWMla0d2X^O\\Mha0b2[^O^Mea0_2]^OaMda0]2a2J7C>H9J4L>\\Oigk3"
+      },
+      "label": "trees vegetation",
+      "score": 0.2192896455526352
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "Vik>6hh04ZWOGah0>06ICgWO4Vh0LjWO5Wh0HjWO80FPh00QXO:NIPh0LRXO;MKPh0f0PXO\\O[g0Y1mXO^Nff0e1RYO^N00lf0n101[YOQNWf03bYOe14]NVf0`2K[MjYOo2ge0PM[ZOW3]e0iLcZOY3[e0gLdZO]3Ye0cLgZOd3Re0]LmZOg3od0?F?A<D8W\\OeJ]c0d5h\\O[Jkb0R6o\\ORJfb0b6B;aDeIc3i6jK`IR4f6kE^Ha5Y1[4j6YK\\Id4o6\\FaGV4o1R5o6iJZIP5o6gF_GU3P2nLYMc8]:iGbEd03BMDS3Y8a7_GmE=@C3O6>OCl2g0kLQ7\\;WHgD1h08Q33WL[7^<\\HSH_7j<N4L1dH_^OW7ea001O005K5K>B2N3dI^]OT6ib0N1O1O6J6J;Ea0_O8H9Gd0\\O5K3M3PMZZO`2_f0D6aM]YOU2mf0J2N1O7I1O;E8mNSXON0?ch0H4L3M2NSgT1OnXkN1OOXm70cRH>ZWODWW2NeaN0PgT1"
+      },
+      "label": "parks",
+      "score": 0.2437087744474411
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "To[1:bh07dWOAX1b0\\d0b0`[OISd0?g[OFRd0?i[OFUd0=f[OGWd0?b[OD^d0_2O100O0100O10O10O1N101N1O2N101O0O2O1O1N2N1N3N2L4N3L3L5L3O2N2L3M4N1O1O2N1N3N1O2M2O2L5L4K5J6L4L4L7J5L1N2O4K3M3Lhbd`0"
+      },
+      "label": "trees",
+      "score": 0.26131299138069153
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "`[^>8Sh0KPXOh0hg0;M2hNVOcYOJ5X1Uf0S1M3M5YO[MeZOQ3ld0i0D=K3L4C=J5NUO]\\O]Lcc0c3`\\OjKO5Rc0Nl\\OW4c0dK_b0l4h03I6O2N1100O01O010000TO\\\\O\\Ldc0Z3k\\O`LVc0[3P]OdLPc0W3V]OhLjb0R3_]OlL`b0m2`]OcLTO=]c0k2b]OjLPO;^c0g2f]OnLlN;^c0f2g]OoLkN;^c0e2h]OPMjN;^c0c2j]ORMhN:`c0^2m]OWMdN;_c0[2P^OZMaN;`c0X2R^O\\M^N<`c0V2_^OiMba0R2b^OmMba0d1j^O\\NYa0[1a^O^NfM7mc0U1^^OkN^M0Vd0S1]^OYOoa03Y^OGUMCRe05l]O0TMI02Xh05nWOJSh07kWOHWh07iWOIXh02bWOO__h3"
+      },
+      "label": "trees shrubs vegetation",
+      "score": 0.21828047931194305
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "hnc=8ch0;D<J4EoN^XOZ1=mNPf0`1hYOnNme0V2NYMoYOd2ne0WMUZO0Li2Tf03J8AnLfZOV3Ve0jLeZO`3Ye0^LiZOi3md0XLR[Oo3gd0PLZ[OT41oK400b0N^Odb0Y6I1N5NM2N21ON111O0b0@2m]ORIma0S7`0B1J4L0O000O102M2N3M8H8H9^Jg\\Ok4]d0ZO7H:F9TNaZOEge02`ZOHke0H_ZO3ne0]O^ZO9_g0ETaf4"
+      },
+      "label": "trees shrubs trees vegetation",
+      "score": 0.28427618741989136
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "T>b5^c00M3O1O1N2N200O1N101N101O0N3L3M3O1O2O01O001O1O2N101O0N2N3K5M3L4J6M4M3M2N4K>\\Kj[Of3ld0SLS[O?MY2Tf0M2M3M5K4L2N3M3M2N2L6J8B;I?^O\\YVb0"
+      },
+      "label": "trees",
+      "score": 0.20835155248641968
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "[?\\4dd00O100O1M3O1O10O10000O100O01O0100N1001O01O001N201O2M1O1N2K5O4K8E5N3M4M2N6I3N3N2M4M3L3M3M3M3L3N3M3L7I4D`0Gb0UOUYVb0"
+      },
+      "label": "trees",
+      "score": 0.21222849190235138
+    },
+    {
+      "segmentation": {
+        "size": [
+          800,
+          800
+        ],
+        "counts": "b7b42o2i<QMWCo2i<d41O1N201N2O0N2O0O1O4M10ON201O001M3N2WF_BP8a=QH_Bo7`=hGiBX8X=hGhBW8k=TGZB=EmNNP8W>aHYB96n6d=dHYB<7m6b=`HcAKh0b08R7^=_HaBKTO8T1[7Y=]HZDR1VMY5_a0gJa^OW5ba0R13fI]^Oh4N_J4I\\a0n0e^Oh4L\\J8MTa00e^Om05i4g9ZJVF0d71YHl06f4I_Jj92XFOd7OZHk02TO12MY5m9TKeMg0gHR4e9\\K^L\\OcJW1[On3e9bKYFXOK1d53WKU1_Oh3c9hKUL\\OiJT1Cd3^9nKULZOkJLSOR1h0UOYOI0001O1N5:c2f9PNRFVOm54PKKTOS1m1mN`Nj26VMb8j0nLXOlJ0nNS1b2d1[7SN^M?ZKX1PN]M@0k8n0ZN?`Ko0kMfM^OOl8n0]N<[KT1V7aN_M;ZKU1S7nMXFFO:\\7l0UKgN`M`2h9eNaM4WKZ1W7POXFdNc6T1iKdNfMb2g9_OgL]OfKR1PNcMb9P2dJnMfM[15eNjM[26eMa9S2bJoMkMV12gNkMZ2R:BlEYNZ40kMMkMQ1]2n0k76RJoMjMLlMP1^2n0k7MgE\\NX2GRN2n0>l0b0=m0i7UOfEVO1O1JN0R25SNM4Ka0g0W19`0o0i7VOfEUO1O1JN0Q2c0UN\\Oc0h0X1DPNC14b2k1b7EjEcN6Lj1d0UN[Oc0k0XOTOl16^NL[2l1a7[OjEnN3I0N03h1MXN3Mc02^Oa0S1^1kNU1o1n6[OlEnN1J0M23a1L_NZ1:hNCV1[5i0h4>ZGWOcN1[59i43lEWN2Io0`3PO^LX5m1l4a0lEiMk0\\3UO]LX5m1k4m0jFi0]4ZNi4e0mEaMP1^3[4[Nh4f0mEaMP1NPO2OS3\\5fNg4n0nFg0[4[Nf49nETN2H1Nl06ROR3OjLZ5k1g4AoEmN0N2O1J0Nk07TO2Nc21UMZ5j1gLUNl5W2RHSN2HR14nNP3_5dN`4l0RF[Mo08oNi2d5eN]48nEUN0010OO2Oo01PO00\\2OQNg5R1^4U1nFj0f4ZMZJAW:T1hEUONES1Y3i4kLXJD45S:Y1hEUONCR1\\3m4aLQJLd01g9_1gESOMES1V3a`0UN]^O[OR1_2b`0WN[^OQO2]OT1Y3``0YNZ^ORO0]OT1V3e`0YNY^OROO_OT1U3e`0ZNY^ORON^OU11jNm2a=UMbF]1PLRON^OT1R3l;nLQCN77h3\\1RLTOT1Z2l;XMTC0i3\\1RLoN1\\OP1n2S<[MPC2i3S2TLbMP1h2nNYMV=9nB2i3R2[M9V<aMeB5i3P2TLcMW1c2[<dM^B9m3l1SLdMW1b2]<dM[B<m3m1]M0^<[NUFe1^MN^<kMXB1OIm3\\2`MJn;gMUC9A1OJl3Z2bMJ`<fN^BSOP3Z2TNK^<kMSBR12QOX3f0eLe0a1d0^<oMRB[1Z3m0VNFg<\\OTEl0VNFj<\\OPEm0WNDm<XNaAP1a3oN^Lj1e1NR=YOPEd0QN4o<WOTE5ULROj1a1m<XOXE;mM8P=\\OVE7mM9R=TOQAAQ4l0nKPOo1]1S=TOQABQ4i0TN:iMhNR?c0o@CS4d0XN;l<HmDH\\N=j<JjDDdN7XM[O[?i0lDBdN5j<7dDAjNFmL20Ng?e0fDBnNId<b0\\8I9L4Ka]f`0"
+      },
+      "label": "trees",
+      "score": 0.21752189099788666
+    }
+  ]
+}
